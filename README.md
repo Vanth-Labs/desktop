@@ -1,3 +1,5 @@
+> **This repository moved to [Vanth-Labs/hannah](https://github.com/Vanth-Labs/hannah) (now the folder `desktop/`) on 2026-09-06 and is archived.** Issues, releases and the installers live there. The history of this repo is preserved in the new one.
+
 # hannah-desktop
 
 Hannah's **Electron** app: the floating overlay, and the universal path to making it behave the
